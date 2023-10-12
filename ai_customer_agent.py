@@ -1,6 +1,6 @@
 # given the sentiment from the lesson on "inferring",
 # and the original customer message, customize the email
-sentiment = "negative"
+sentiment = "negative" 
 
 # review for a blender
 review = f"""
